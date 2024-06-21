@@ -1,0 +1,15 @@
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/bin/Debug/net8.0/IrisPredictionClient
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/bin/Debug/net8.0/IrisPredictionClient.deps.json
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/bin/Debug/net8.0/IrisPredictionClient.runtimeconfig.json
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/bin/Debug/net8.0/IrisPredictionClient.dll
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/bin/Debug/net8.0/IrisPredictionClient.pdb
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.AssemblyInfoInputs.cache
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.AssemblyInfo.cs
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.csproj.CoreCompileInputs.cache
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.sourcelink.json
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.dll
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/refint/IrisPredictionClient.dll
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.pdb
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/IrisPredictionClient.genruntimeconfig.cache
+/Users/alleon_g/code/python_course/ml_rest_service/IrisPredictionClient/obj/Debug/net8.0/ref/IrisPredictionClient.dll
